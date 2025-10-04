@@ -1,0 +1,8 @@
+pandas
+numpy
+statsmodels
+tensorflow
+matplotlib
+scikit-learn
+gradio
+prophet
